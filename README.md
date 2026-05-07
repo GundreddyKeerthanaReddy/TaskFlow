@@ -4,7 +4,7 @@ A production-ready, full-stack SaaS-style project management application built w
 
 ---
 
-## Screenshots
+
 
 
 
