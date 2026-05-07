@@ -6,13 +6,7 @@ A production-ready, full-stack SaaS-style project management application built w
 
 ## Screenshots
 
-> _Add screenshots of your deployed app here._
 
-| Dashboard | Kanban Board | Analytics |
-|-----------|-------------|-----------|
-| ![Dashboard](screenshots/dashboard.png) | ![Kanban](screenshots/kanban.png) | ![Analytics](screenshots/analytics.png) |
-
----
 
 ## Features
 
